@@ -29,7 +29,7 @@ const MobileMenu = ({ isOpen, onClose, currentPath }: MobileMenuProps) => {
               <span className="text-white font-bold text-sm">H+</span>
             </div>
             <span className="text-lg font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-              HostelHub+
+              CampusMate
             </span>
           </div>
           <button
