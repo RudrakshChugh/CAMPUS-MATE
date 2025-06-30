@@ -1,10 +1,10 @@
-# 📘 HostelHub+: The Smart College Companion  
+# 📘 CampusMate : The Smart College Companion  
 ### An AI-Integrated Productivity & Community Platform for College Students
 
 ---
 
 ## 🔍 Solution Overview  
-HostelHub+ is a centralized platform tailored for college students, helping them stay organized, productive, and connected through AI, automation, and community.
+CampusMate is a centralized platform tailored for college students, helping them stay organized, productive, and connected through AI, automation, and community.
 
 ---
 
@@ -75,7 +75,7 @@ HostelHub+ is a centralized platform tailored for college students, helping them
 
 ---
 
-## 🌟 Why HostelHub+ Stands Out  
+## 🌟 Why CampusMate Stands Out  
 
 - Solves real, relatable college-life problems  
 - Balanced mix of AI utility + social collaboration  
@@ -87,4 +87,4 @@ HostelHub+ is a centralized platform tailored for college students, helping them
 
 ## 🎓 Final Summary
 
-**HostelHub+ isn't just an app — it's your personalized academic buddy, your digital planner, your note vault, your help desk, and your community — all in one smart, AI-powered platform.**
+**CampusMate isn't just an app — it's your personalized academic buddy, your digital planner, your note vault, your help desk, and your community — all in one smart, AI-powered platform.**

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🧠 HostelHub+ – Tech Requirements
+# 🧠 CampusMate – Tech Requirements
 
 A full-stack AI-powered productivity and community platform for college students.
 
@@ -105,7 +105,7 @@ A full-stack AI-powered productivity and community platform for college students
 ## 📁 Project Folder Structure
 
 ```plaintext
-/hostelhub
+/CampusMate
 ├── /src
 │   ├── /components
 │   ├── /pages
