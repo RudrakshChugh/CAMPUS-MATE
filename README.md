@@ -58,20 +58,6 @@ A full-stack AI-powered productivity and community platform for college students
 
 ---
 
-### 🏆 XP & Gamification System
-- **Frontend:** Progress bar, badge icons
-- **Backend:** Firestore triggers for XP points
-- **Logic:** Simple counter-based tracking and leaderboards
-
----
-
-### 🍱 Hostel Mess Menu & Feedback
-- **Frontend:** Menu viewer + feedback forms
-- **Backend:** Firestore menu data + feedback entries
-- **AI:** Sentiment analysis via HF `distilbert-base-uncased-finetuned-sst-2-english`
-
----
-
 ### 🌍 Regional & Batch Communities
 - **Frontend:** Group join/search interface
 - **Backend:** Firestore for communities and membership
